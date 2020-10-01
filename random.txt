@@ -1,0 +1,4 @@
+ 
+    <img src="hos7.gif" width="200px" height="200px" style="position: absolute;right:70px;bottom: 10px;">
+    <img src="hos7.gif" width="200px" height="200px" style="position: absolute;left:70px;bottom: 10px;">
+<!--guyfuyf-->
